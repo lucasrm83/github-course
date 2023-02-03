@@ -1,5 +1,5 @@
 Curso Git
 
-Teste de repositório :)
+Teste de repositório
 
-Git é massa!
+Teste de modificação
